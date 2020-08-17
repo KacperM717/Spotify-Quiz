@@ -1,0 +1,7 @@
+const tracksTypes = {
+  FETCH_PENDING: "FETCH_TRACKS_PENDING",
+  FETCH_SUCCESS: "FETCH_TRACKS_SUCCESS",
+  FETCH_FAILURE: "FETCH_TRACKS_FAILURE"
+};
+
+export default tracksTypes;
